@@ -1,0 +1,23 @@
+{
+  "name": "gen-callgraph.ts",
+  "version": "1.0.0",
+  "description": "A simple script to generate a callgraph from an ELF binary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dscho/gen-callgraph.ts.git"
+  },
+  "keywords": [
+    "callgraph",
+    "elf"
+  ],
+  "author": "Johannes Schindelin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dscho/gen-callgraph.ts/issues"
+  },
+  "homepage": "https://github.com/dscho/gen-callgraph.ts#readme"
+}
