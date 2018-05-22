@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/dscho/gen-callgraph.ts/issues"
   },
-  "homepage": "https://github.com/dscho/gen-callgraph.ts#readme"
+  "homepage": "https://github.com/dscho/gen-callgraph.ts#readme",
+  "devDependencies": {
+    "@types/node": "^10.1.2",
+    "ts-node": "^6.0.3",
+    "typescript": "^2.8.3"
+  }
 }
